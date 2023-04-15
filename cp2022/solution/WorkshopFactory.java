@@ -4,6 +4,7 @@
  * Java Assignment
  *
  * Author: Konrad Iwanicki (iwanicki@mimuw.edu.pl)
+ * Author of assignment solution: Maria Wysogląd
  */
 package cp2022.solution;
 
