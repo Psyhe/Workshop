@@ -1,3 +1,5 @@
+// Implemented solution to Java Assignment
+// Author: Maria Wysogląd
 package cp2022.solution;
 
 import java.util.Collection;
